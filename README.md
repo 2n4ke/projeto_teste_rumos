@@ -2,5 +2,3 @@
 
 TESTE PARTILHA COM O AFONSO
 ola
-teste
-ola
